@@ -1,0 +1,7 @@
+username: "majid.mardanov"
+password: "Sa74vx67@"
+mainURL: "https://glo.globallogic.com/apps/glo/login"
+driverPath: "C:/Temp/chromedriver"
+managerFirstName: "Piotr"
+managerLastName: "Bartkiewicz"
+csvPath: "C:/Temp/employees.csv"
